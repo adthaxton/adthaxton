@@ -23,8 +23,11 @@ Python · Selenium · Playwright · Perplexity API
 
 ## Projects
 
+### [geo-skills](https://github.com/adthaxton/geo-skills)
+Open-source GEO skill frameworks for SEO practitioners and AI search strategists. Six skills covering citation auditing, AI Overview optimization, schema for GEO, multi-location GEO, E-E-A-T signal auditing, and llms.txt implementation. Each skill includes a framework, reference data, and worked examples.
+
 ### [llm-citation-tracker](https://github.com/adthaxton/llm-citation-tracker)
-Track whether your brand appears in LLM responses across a set of target prompts. Queries the Perplexity API, logs citation presence and context snippets to CSV, and appends on each run so you can track trends over time.
+Python toolkit for tracking brand citations in LLM responses. Includes a citation tracker, prompt variation tester, and GEO content auditor. Queries the Perplexity API, logs results to CSV, and appends on each run so you can track citation trends over time.
 
 ---
 
